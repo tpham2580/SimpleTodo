@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Added toast for when user adds blank item to list!
+* [X] Added toast for when user adds blank item to list!
 
 ## Video Walkthrough
 
